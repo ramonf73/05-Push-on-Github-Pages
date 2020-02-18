@@ -1,0 +1,48 @@
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+   color: red;
+}
+
+ h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  color: blue;
+ }
+
+ h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  color: black;
+ }
+
+ div {
+  display: block;
+ }
+
+ body {
+  background-color: lightgrey;
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
+  color: black;
+  font-weight: lighter;
+ }
+
+  .img-circle {
+  border-radius: 50%;
+  }
+
+  .text-center {
+  text-align: center;
+  }
+
+  .card-white {
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+  }
+
+  .container {
+  width: 500px;
+  margin: 40px auto;
+  }
